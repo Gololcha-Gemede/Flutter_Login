@@ -1,16 +1,15 @@
-# flutter_login
+# Flutter_login
 
-A new Flutter project.
+A simple Flutter login application with form validation using email and password. The app checks user credentials against hardcoded values and displays a success or failure message based on the input.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+Email and password login form
 
-A few resources to get you started if this is your first Flutter project:
+Input validation (email format, empty fields)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Hardcoded authentication check
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Success and error feedback using SnackBar
+
+Clean and minimal UI design
